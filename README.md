@@ -9,3 +9,5 @@ Gimana caranya buat Git Commit
 Gimana caranya buat Git Push
 Gimana caranya buat Git Branch 
 Gimana caranya buat Git Merge
+
+End
